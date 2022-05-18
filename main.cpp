@@ -7,5 +7,6 @@ main()
     scanf("%d", &a);
     printf("\nEnter the second number: ");
     scanf("%d", &b);
+    printf("\nSumma = %d .", a+b);
     return 0;
 }
